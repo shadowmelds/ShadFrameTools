@@ -1,0 +1,1 @@
+node shadframe.js --screenshot=1.png  --mockup=laptop@3840-2560.png --background=background2.png --quality=90

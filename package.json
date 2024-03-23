@@ -1,0 +1,15 @@
+{
+  "name": "shadframetools",
+  "version": "1.0.0",
+  "description": "ScreenshotTool",
+  "main": "shadframe.js",
+  "scripts": {
+    "test": "node shadframe.js --screenshot=1.png  --mockup=tablet@3840-2560.png"
+  },
+  "author": "shadowmeld",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "sharp": "^0.33.2"
+  }
+}
