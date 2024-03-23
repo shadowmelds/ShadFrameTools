@@ -1,4 +1,4 @@
-# Next.js + sharp 带壳截图合成
+# Node.js + sharp 带壳截图合成
 
 ![img](output.png)
 
