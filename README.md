@@ -1,3 +1,7 @@
+# Next.js + sharp 带壳截图合成
+
+![img](output.png)
+
 ### 使用示例：
 
 前提：设备安装有 Node.js
