@@ -11,9 +11,6 @@
 ```
 # 最短的生成命令：指定 原始截图&设备框图
 node shadframe.js --screenshot=1.png  --mockup=tablet@3840-2560.png
-
-# 全部生成命令
-node shadframe.js --screenshot=1.png --mockup=tablet@3840-2560.png --background=background@3840-2560.png --radius=32 --save=output.png --quality=90
 ```
 
 ### 已有的设备框对应分辨率使用命令
